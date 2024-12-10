@@ -1,5 +1,3 @@
-**Intermediate Project Report**
-
 Henry Miller and Ryan Greer
 
 We are doing the Mancala game implementation, so we already had a decent framework. We fixed several small edge cases that were causing trouble from HW7, as well as implementing a random game function.
